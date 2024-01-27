@@ -12,7 +12,7 @@ Follow these steps to get the Amazon clone up and running on your local machine:
 
 1. Clone the Repository:
 
-git clone https://github.com/KrishnaBalasara/Amazon_Clone.git
+```git clone https://github.com/KrishnaBalasara/Amazon_Clone.git```
 
 2.Open the Web Page:
 
