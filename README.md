@@ -11,9 +11,11 @@ This project is a simple implementation of an Amazon clone using HTML and CSS. I
 Follow these steps to get the Amazon clone up and running on your local machine:
 
 1. Clone the Repository:
-  git clone https://github.com/KrishnaBalasara/Amazon_Clone.git
+
+git clone https://github.com/KrishnaBalasara/Amazon_Clone.git
 
 2.Open the Web Page:
+
 - Navigate to the project directory.
 - Open the index.html file in your preferred web browser.
 
